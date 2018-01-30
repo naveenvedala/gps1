@@ -1,5 +1,5 @@
 {
-  "name": "gps-server testing",
+  "name": "gps-test",
   "version": "0.4.2",
   "description": "server supporting hardware GPS devices of various types",
   "main": "./gps-server.js",
