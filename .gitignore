@@ -1,0 +1,7 @@
+!.gitkeep
+node_modules/
+/nbproject/private/
+.idea/
+*.log
+input.log*
+
